@@ -8,10 +8,14 @@ A simple quiz application built with Embarcadero C++ Builder.
 * **User-friendly interface:** Provides a clear and intuitive user experience.
 * **Hardcoded questions:** Currently, questions are directly coded into the application.
 
+
+
 ## Screenshots
-![image](https://github.com/user-attachments/assets/a63628c5-ac13-49bf-8116-c2337560e5cd)
-![image](https://github.com/user-attachments/assets/0c51725a-d735-43dd-8511-62b7ba47d17f)
-![image](https://github.com/user-attachments/assets/c817fb94-e76c-4eb7-bcbc-cbb048687d74)
+
+| Start Page | Next question | End Page of test |
+|---|---|---|
+| [![image](https://github.com/user-attachments/assets/a63628c5-ac13-49bf-8116-c2337560e5cd)](https://github.com/user-attachments/assets/a63628c5-ac13-49bf-8116-c2337560e5cd) | [![image](https://github.com/user-attachments/assets/0c51725a-d735-43dd-8511-62b7ba47d17f)](https://github.com/user-attachments/assets/0c51725a-d735-43dd-8511-62b7ba47d17f) | [![image](https://github.com/user-attachments/assets/c817fb94-e76c-4eb7-bcbc-cbb048687d74)](https://github.com/user-attachments/assets/c817fb94-e76c-4eb7-bcbc-cbb048687d74) |
+
 
 
 ## How to Use
